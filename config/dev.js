@@ -1,0 +1,11 @@
+module.exports={
+    projectid:'reactbot-tvgqht',
+
+    sessionid:'reactbot-session1',
+    MangoURI :'mongodb+srv://sam_user_87:Musk_12345@clusterbot-uchdg.mongodb.net/chatbot?retryWrites=true&w=majority',
+     
+
+    DIALOGFLOW_PRIVATE_KEY:'-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPjcfn70b12h8k\n4bL9XCXnu1tuPqS4hg0SAlXrot6Z/cnFLX/oU+k85611Qg4DoWdSe7qLc0+n6OLW\nYz5NuXJRj9WLT33iypjAOXvVh/eFgwUXq3DWsDZZG+eHNpeAip7/cL37LpnQxQLH\nK7t6tVTROt7WeeoHZ4i6+Ah8x9cwO2YrzCyQ/ZjLCugMt1CuddXGfSwH1gGpZion\n7w/7zHbBboXXzn6vXAZAMjiFZmN0Ed9DOWp2S+kbVXrPnlPQ3ZrFaCxFEW8xRwPj\nmahfbCJzkJ72e8tq9kOZ2OubXex+HcTvSbLOREam7YE4JZ61aEgtlnIctGqPbUqC\nUuZ/6TsLAgMBAAECggEABEi2ZXA3+ZMDfv+OR2e3H3ekfFEcXLrlYg65D9eq8D3D\nSyCpy7WQIJrdmIhIHeGfYCwxusyUrgyC7TmUaAag1NQJQdiz6m6FjEqf5qsGEYJA\nMtMmzXwR942rSMw/ZDBxLu+U99kEj6Sl0hZHYvyDStWghN0fOnKszN+Z3M18uYcn\nts9F1MYzNmUHpo3HSsJiPsa6nqSCgexfkqRQUqHOTqZ3Ye+p+sFYI+3mseiEfIXY\nPEYRCkfervgmFVYV1u2pBSSuIsnpoj83LIWo4qj9oajGdlczSckei8GZUCMs+d8u\nOOvGFb1KUV0JOY9tuugeH0HjkYhwYMPPQlmYKuDnIQKBgQDn40FLvLbLpBVv+TX9\nwCQWXD6GP/Qpi5LEv4ZzLlSngwM5ubjzc0LPj6BmYaHC11M4o/mWqK17WFOT8S2R\nar4/evJ86UWl4P3mPfraCvyQRqbHadLe9OQINGyQl4CoT1zNuRhXK50bWHuMwJ9Q\nz45nUoyNgm8nFYS+tf0ceR48IQKBgQDlIsTbKfU87WGwd35+TbrqizXV7+pKNtQ8\n6pnoZXvA0ROd4W6PGRxFmVub/N5yuPbRtMbmzIgtiC7b+r5BM/jH4f+7C5Z28zRA\nG7NV+y0fDX6xsD0/q3+rl1t6ctmTV6d+dnbaWE1ZgaSy4n6K8ML8ATutWLHYgIHP\nt/HvvpzxqwKBgQDZM0oT8N2ffT//NATYe8LRlvGRuhGvYGbHF0aOWJU+mj7JMScG\nEa5A0J1DiKuF3z66TQ0Zi0GDyUXvyvYNwVgWCclcKvvr1gS8Rs3SsnvDgAnzuzGj\nWOrGrKQMA3ylKkEZCQi9jcKIvKZtPnd7sA4IxY+VdNk8WLGQGNLOerxRQQKBgFJY\nLGaWrYs3w+OnDc5WINYpMS+xCIGjMqKxrJ3X2qFwgZw7Z4AFhiN8+W8VcNvJnOnA\nDbrjxgyW5EAp3DWSd9VdYonVoD0fKafgTJKZsZ13PBCfRWOcPkVsH3Ph0k8hMRBB\ngnT1RtbjwEyJGPDVlTz7NHcXaNJlXEFJ2ahO2BgBAoGALIAR7nUsbey8va2n5cZF\nYwS/GrlnN+900zkwlPX5JKUsjHUg+nNl11fyVhab+lkwSMFy6az1/VCMqanu8mqa\nRlScGljEzdeA8QamIjP5s5RHia9n12i+oUFEkIZd+4GTF3HYcwsj1w3e7SYek7HP\n3EuQk3Kt7v8TrajzGWZOEtU=\n-----END PRIVATE KEY-----\n',
+    DIALOGFLOW_CLIENT_EMAIL:'dialog-flow-botclient@reactbot-tvgqht.iam.gserviceaccount.com',
+}
+
